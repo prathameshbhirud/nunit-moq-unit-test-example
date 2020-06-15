@@ -1,0 +1,15 @@
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\MoqClassLibrary.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\MoqClassLibrary.pdb
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\Castle.Core.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\Moq.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\Castle.Core.xml
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\Moq.xml
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\obj\Debug\MoqClassLibrary.csprojAssemblyReference.cache
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\obj\Debug\MoqClassLibrary.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\obj\Debug\MoqClassLibrary.csproj.CopyComplete
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\obj\Debug\MoqClassLibrary.dll
+C:\Prathamesh\Sample Codes\BasicMath\MoqClassLibrary\obj\Debug\MoqClassLibrary.pdb

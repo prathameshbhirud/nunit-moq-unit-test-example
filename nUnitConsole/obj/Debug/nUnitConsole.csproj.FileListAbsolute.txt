@@ -1,0 +1,7 @@
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\bin\Debug\nUnitConsole.exe.config
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\bin\Debug\nUnitConsole.exe
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\bin\Debug\nUnitConsole.pdb
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\obj\Debug\nUnitConsole.csprojAssemblyReference.cache
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\obj\Debug\nUnitConsole.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\obj\Debug\nUnitConsole.exe
+C:\Prathamesh\Sample Codes\BasicMath\nUnitConsole\obj\Debug\nUnitConsole.pdb

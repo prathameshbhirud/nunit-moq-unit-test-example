@@ -1,0 +1,9 @@
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\bin\Debug\netstandard2.0\BasicMath.deps.json
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\bin\Debug\netstandard2.0\BasicMath.dll
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\bin\Debug\netstandard2.0\BasicMath.pdb
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.AssemblyInfoInputs.cache
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.AssemblyInfo.cs
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.dll
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.pdb
+C:\Prathamesh\Sample Codes\BasicMath\BasicMath\obj\Debug\netstandard2.0\BasicMath.csprojAssemblyReference.cache
